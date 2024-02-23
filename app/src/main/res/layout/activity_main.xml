@@ -30,7 +30,7 @@
         android:background="#151515"
         android:ems="10"
         android:gravity="center"
-        android:hint="Введите название книги"
+        android:hint="Введите автора книги"
         android:inputType="textPersonName"
         android:textColor="#8E5DD5"
         android:textColorHint="#8E5DD5"
